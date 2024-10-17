@@ -28,6 +28,6 @@ This project was completed in 2022 as part of my early exploration of Machine Le
    - Verified the final model assumptions using the **Breusch-Pagan test** and **Bootstrap** for confidence intervals.
 
 ## Results
-- The final model showed significant improvement after transformation and selection, correctly predicting 92.9% of observations using a logistic model.
-- **Outliers** and **heteroscedasticity** were successfully managed, improving model fit.
-
+- The final model successfully reduces the number of variables while retaining only the significant ones.
+- Improvements were observed in linearity, outlier management, and heteroscedasticity correction, leading to better model diagnostics and overall performance.
+- In a separate analysis, a **logistic model** was applied, simplifying the task by categorizing cars into two price segments (low vs. high). This model achieved an accuracy of 92.9%.
