@@ -1,8 +1,7 @@
 # Automobile Price Analysis
 
 ## Description
-This project was completed in 2022 as part of my early exploration of Machine Learning with RStudio.
-This project focuses on building a robust model to analyze variations in automobile prices based on observed characteristics. Using the **Automobile Data Set**, which includes data from sources such as the *1985 Model Import Car and Truck Specifications* and *Insurance Collision Reports*, i apply data preprocessing, variable transformation, and modeling techniques to predict car prices.
+This project was completed in 2022 as part of my early exploration of Machine Learning with RStudio. The focus is on building a robust model to analyze variations in automobile prices based on observed characteristics. Using the **Automobile Data Set**, which includes data from sources such as the *1985 Model Import Car and Truck Specifications* and *Insurance Collision Reports*, i apply data preprocessing, variable transformation, and modeling techniques to predict car prices.
 
 ## Objectives
 - Predict automobile prices based on features such as engine type, dimensions, and fuel system.
